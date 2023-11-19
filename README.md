@@ -8,5 +8,6 @@ Key Highlights:
 PBIX Link:
 https://drive.google.com/file/d/1PmwMMrQLzE_wBnL09zqqreh5iV9Dm3GG/view?usp=sharing
 PDF Link:- 
-[Netflix project.pdf](https://github.com/MuskanSingh-414/Project/files/13392262/Netflix.project.pdf)
+[Netflix project.pdf](https://github.com/MuskanSingh-414/Project/files/13402505/Netflix.project.pdf)
+
 
