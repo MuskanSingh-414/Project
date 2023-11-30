@@ -1,4 +1,4 @@
-Title of the project :- Power-BI_Netflix
+UNP-project_Power-BI_Netflix
 Completed this project as part of my Power BI internship with United Network Of Professionals(UNP).
 
 Key Highlights: 
